@@ -2,7 +2,7 @@ const monedas = [
     { codigo: 'PEN', pais: 'Peru', tipoCambio: 3.8 },
     { codigo: 'CLP', pais: 'Chile', tipoCambio: 925 },
     { codigo: 'VEF', pais: 'Venezuela', tipoCambio: 39 },
-    { codigo: 'COL', pais: 'Colombia', tipoCambio: 3812 },
+    { codigo: 'COP', pais: 'Colombia', tipoCambio: 3812 },
     { codigo: 'ARS', pais: 'Argentina', tipoCambio: 1040 },
     { codigo: 'USD', pais: 'Estados Unidos', tipoCambio: 1 }
 ];
